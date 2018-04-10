@@ -1,0 +1,11 @@
+C:\Users\11761\source\repos\crawler\crawler\bin\Debug\netcoreapp2.0\crawler.deps.json
+C:\Users\11761\source\repos\crawler\crawler\bin\Debug\netcoreapp2.0\crawler.runtimeconfig.json
+C:\Users\11761\source\repos\crawler\crawler\bin\Debug\netcoreapp2.0\crawler.runtimeconfig.dev.json
+C:\Users\11761\source\repos\crawler\crawler\bin\Debug\netcoreapp2.0\crawler.dll
+C:\Users\11761\source\repos\crawler\crawler\bin\Debug\netcoreapp2.0\crawler.pdb
+C:\Users\11761\source\repos\crawler\crawler\obj\Debug\netcoreapp2.0\crawler.csprojResolveAssemblyReference.cache
+C:\Users\11761\source\repos\crawler\crawler\obj\Debug\netcoreapp2.0\crawler.csproj.CoreCompileInputs.cache
+C:\Users\11761\source\repos\crawler\crawler\obj\Debug\netcoreapp2.0\crawler.AssemblyInfoInputs.cache
+C:\Users\11761\source\repos\crawler\crawler\obj\Debug\netcoreapp2.0\crawler.AssemblyInfo.cs
+C:\Users\11761\source\repos\crawler\crawler\obj\Debug\netcoreapp2.0\crawler.dll
+C:\Users\11761\source\repos\crawler\crawler\obj\Debug\netcoreapp2.0\crawler.pdb
